@@ -1,4 +1,4 @@
-#include "routines_orig.h"
+#include "routines_orig.c"
 #include <stdio.h>
 #include <signal.h>
 
