@@ -24,7 +24,8 @@ The basic programs that are being implemented with these different ways are thre
 
 These programs are checking for prime numbers. <br>
 
-![image](~/Pictures/prime_number.png "Implementation")
+![image](prime_number.png)
+<br>
 In order to run the program you should compile with the Makefile. <br>
 ```bash
 make
